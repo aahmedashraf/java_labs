@@ -1,0 +1,15 @@
+package RandomWork;
+
+public class class1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String x="Aahmed Ashraf does CS";
+		String [] Y= x.split(" ");
+		System.out.println(Y);
+		
+		
+	}
+
+}

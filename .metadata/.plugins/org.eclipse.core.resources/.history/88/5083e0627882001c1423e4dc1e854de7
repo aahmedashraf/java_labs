@@ -1,0 +1,14 @@
+package RandomWork;
+
+public class systemmethods {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		long before = System.currentTimeMillis();
+		System.out.println("I am a man");
+		long after= System.currentTimeMillis();
+		System.out.println(after - before);
+	}
+
+}
